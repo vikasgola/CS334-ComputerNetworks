@@ -1,0 +1,569 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.9.9)  26 SEP 2018 23:48
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**"/media/vikasgola/Tutorials&Files/IIT_JAMMU/sem 5/network/assignments/assignment 4/report.tex"
+(/media/vikasgola/Tutorials&Files/IIT_JAMMU/sem 5/network/assignments/assignment 4/report.tex
+LaTeX2e <2016/02/01>
+Babel <3.9q> and hyphenation patterns for 81 language(s) loaded.
+(/usr/share/texlive/texmf-dist/tex/latex/extsizes/extarticle.cls
+Document Class: extarticle 1996/10/08 v1.0 Non Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/extsizes/size14.clo
+File: size14.clo 1999/11/11 v1.4a NON-Standard LaTeX file (size option)
+) (/usr/share/texlive/texmf-dist/tex/latex/base/exscale.sty
+Package: exscale 2014/09/29 v2.1h Standard LaTeX package exscale
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 57.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/cmex/m/n on input line 57.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/cmex/m/n on input line 57.
+\big@size=\dimen102
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen103
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2016/01/03 v1.0q Standard LaTeX Graphics (DPC,SPQR)
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+) (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 95.
+ (/usr/share/texlive/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+ (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+) (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count87
+))
+\Gin@req@height=\dimen104
+\Gin@req@width=\dimen105
+) (/usr/share/texlive/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+Package: pdfpages 2015/09/18 v0.5d Insert pages of external PDF documents (AM)
+ (/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+) (/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count88
+\calc@Bcount=\count89
+\calc@Adimen=\dimen106
+\calc@Bdimen=\dimen107
+\calc@Askip=\skip43
+\calc@Bskip=\skip44
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count90
+\calc@Cskip=\skip45
+) (/usr/share/texlive/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+Package: eso-pic 2015/07/21 v2.0g eso-pic (RN)
+ (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/atbegshi.sty
+Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
+ (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)) (/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+ (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
+Package xcolor Info: Model `RGB' extended on input line 1353.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+))
+\AM@pagewidth=\dimen108
+\AM@pageheight=\dimen109
+ (/usr/share/texlive/texmf-dist/tex/latex/pdfpages/pppdftex.def
+File: pppdftex.def 2015/09/18 v0.5d Pdfpages driver for pdfTeX (AM)
+)
+\AM@pagebox=\box26
+\AM@toc@title=\toks15
+\c@AM@survey=\count91
+\AM@templatesizebox=\box27
+) (/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+ (/usr/share/texlive/texmf-dist/tex/latex/base/t1enc.def
+File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
+)) (/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+ (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+) (/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count92
+\Gm@cntv=\count93
+\c@Gm@tempcnt=\count94
+\Gm@bindingoffset=\dimen110
+\Gm@wd@mp=\dimen111
+\Gm@odd@mp=\dimen112
+\Gm@even@mp=\dimen113
+\Gm@layoutwidth=\dimen114
+\Gm@layoutheight=\dimen115
+\Gm@layouthoffset=\dimen116
+\Gm@layoutvoffset=\dimen117
+\Gm@dimlist=\toks16
+) (./report.aux)
+\openout1 = `report.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+ (/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count95
+\scratchdimen=\dimen118
+\scratchbox=\box28
+\nofMPsegments=\count96
+\nofMParguments=\count97
+\everyMPshowfont=\toks17
+\MPscratchCnt=\count98
+\MPscratchDim=\dimen119
+\MPnumerator=\count99
+\makeMPintoPDFobject=\count100
+\everyMPtoPDFconversion=\toks18
+) (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO)
+ (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+ (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+ (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+)) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+ (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+ (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+ (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+))
+\AtBeginShipoutBox=\box29
+ (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/pdflscape.sty
+Package: pdflscape 2008/08/11 v0.10 Display of landscape pages in PDF (HO)
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics/lscape.sty
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 80.
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(72.26999pt, 469.75502pt, 72.26999pt)
+* v-part:(T,H,B)=(72.26999pt, 650.43001pt, 72.26999pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=469.75502pt
+* \textheight=650.43001pt
+* \oddsidemargin=0.0pt
+* \evensidemargin=0.0pt
+* \topmargin=-39.0pt
+* \headheight=14.0pt
+* \headsep=25.0pt
+* \topskip=14.0pt
+* \footskip=30.0pt
+* \marginparwidth=24.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=12.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+[1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] <./images/1_1.png, id=10, 1161.33875pt x 757.83125pt>
+File: ./images/1_1.png Graphic file (type png)
+ <use ./images/1_1.png>
+Package pdftex.def Info: ./images/1_1.png used on input line 27.
+(pdftex.def)             Requested size: 464.52727pt x 303.12714pt.
+ <./images/1_2.png, id=11, 1142.2675pt x 766.865pt>
+File: ./images/1_2.png Graphic file (type png)
+ <use ./images/1_2.png>
+Package pdftex.def Info: ./images/1_2.png used on input line 28.
+(pdftex.def)             Requested size: 456.89891pt x 306.74057pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 27--29
+
+ []
+
+[2 <./images/1_1.png>] [3 <./images/1_2.png>] <./images/1_4.png, id=19, 809.0225pt x 497.86pt>
+File: ./images/1_4.png Graphic file (type png)
+ <use ./images/1_4.png>
+Package pdftex.def Info: ./images/1_4.png used on input line 95.
+(pdftex.def)             Requested size: 444.96376pt x 273.82384pt.
+ [4] <./images/1_5.png, id=23, 1246.6575pt x 607.26875pt>
+File: ./images/1_5.png Graphic file (type png)
+ <use ./images/1_5.png>
+Package pdftex.def Info: ./images/1_5.png used on input line 106.
+(pdftex.def)             Requested size: 436.33667pt x 212.54724pt.
+
+Overfull \hbox (86.90701pt too wide) in paragraph at lines 109--115
+\T1/cmr/m/n/14.4 ques-tions 5,6, 8 and 9 for the fol-low-ing file : \T1/cmr/m/sl/14.4 http://cncourse.000webhostapp.com/simple2.html 
+ []
+
+[5 <./images/1_4.png> <./images/1_5.png>] <./images/1_10_1.png, id=27, 1228.59pt x 743.77875pt>
+File: ./images/1_10_1.png Graphic file (type png)
+ <use ./images/1_10_1.png>
+Package pdftex.def Info: ./images/1_10_1.png used on input line 118.
+(pdftex.def)             Requested size: 491.42729pt x 297.50623pt.
+ <./images/1_10_2.png, id=28, 1235.61626pt x 745.78625pt>
+File: ./images/1_10_2.png Graphic file (type png)
+ <use ./images/1_10_2.png>
+Package pdftex.def Info: ./images/1_10_2.png used on input line 119.
+(pdftex.def)             Requested size: 494.23775pt x 298.30922pt.
+ <./images/1_10_3.png, id=29, 1234.6125pt x 743.77875pt>
+File: ./images/1_10_3.png Graphic file (type png)
+ <use ./images/1_10_3.png>
+Package pdftex.def Info: ./images/1_10_3.png used on input line 120.
+(pdftex.def)             Requested size: 493.83626pt x 297.50623pt.
+ <./images/1_10_4.png, id=30, 1237.62375pt x 742.775pt>
+File: ./images/1_10_4.png Graphic file (type png)
+ <use ./images/1_10_4.png>
+Package pdftex.def Info: ./images/1_10_4.png used on input line 121.
+(pdftex.def)             Requested size: 495.04074pt x 297.10474pt.
+
+Overfull \hbox (21.67227pt too wide) in paragraph at lines 118--122
+[] 
+ []
+
+
+Overfull \hbox (24.48273pt too wide) in paragraph at lines 118--122
+[] 
+ []
+
+
+Overfull \hbox (24.08124pt too wide) in paragraph at lines 118--122
+[] 
+ []
+
+
+Overfull \hbox (25.28572pt too wide) in paragraph at lines 118--122
+[] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 118--122
+
+ []
+
+[6 <./images/1_10_1.png>] [7 <./images/1_10_2.png> <./images/1_10_3.png>]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 123.
+ (/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <14.4> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 123.
+ <./images/1_10_5.png, id=39, 815.045pt x 496.85625pt>
+File: ./images/1_10_5.png Graphic file (type png)
+ <use ./images/1_10_5.png>
+Package pdftex.def Info: ./images/1_10_5.png used on input line 126.
+(pdftex.def)             Requested size: 326.01222pt x 198.73897pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 125--127
+
+ []
+
+[8 <./images/1_10_4.png> <./images/1_10_5.png>] <./images/1_10_6.png, id=45, 1238.6275pt x 600.2425pt>
+File: ./images/1_10_6.png Graphic file (type png)
+ <use ./images/1_10_6.png>
+Package pdftex.def Info: ./images/1_10_6.png used on input line 128.
+(pdftex.def)             Requested size: 445.90556pt x 216.08713pt.
+
+Overfull \hbox (11.40013pt too wide) in paragraph at lines 127--129
+[] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 127--129
+
+ []
+
+
+Overfull \hbox (86.90701pt too wide) in paragraph at lines 132--138
+\T1/cmr/m/n/14.4 ques-tions 5,6, 8 and 9 for the fol-low-ing file : \T1/cmr/m/sl/14.4 http://cncourse.000webhostapp.com/simple3.html 
+ []
+
+<./images/1_11_1.png, id=46, 1237.62375pt x 742.775pt>
+File: ./images/1_11_1.png Graphic file (type png)
+ <use ./images/1_11_1.png>
+Package pdftex.def Info: ./images/1_11_1.png used on input line 141.
+(pdftex.def)             Requested size: 495.04074pt x 297.10474pt.
+ <./images/1_11_2.png, id=47, 1240.635pt x 741.77126pt>
+File: ./images/1_11_2.png Graphic file (type png)
+ <use ./images/1_11_2.png>
+Package pdftex.def Info: ./images/1_11_2.png used on input line 142.
+(pdftex.def)             Requested size: 496.24521pt x 296.70325pt.
+
+Overfull \hbox (25.28572pt too wide) in paragraph at lines 141--143
+[] 
+ []
+
+
+Overfull \hbox (26.49019pt too wide) in paragraph at lines 141--143
+[] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 141--143
+
+ []
+
+[9 <./images/1_10_6.png>] [10 <./images/1_11_1.png> <./images/1_11_2.png>] <./images/1_11_3.png, id=54, 815.045pt x 498.86375pt>
+File: ./images/1_11_3.png Graphic file (type png)
+ <use ./images/1_11_3.png>
+Package pdftex.def Info: ./images/1_11_3.png used on input line 147.
+(pdftex.def)             Requested size: 326.01222pt x 199.54196pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 146--148
+
+ []
+
+<./images/1_11_4.png, id=55, 1245.65375pt x 615.29875pt>
+File: ./images/1_11_4.png Graphic file (type png)
+ <use ./images/1_11_4.png>
+Package pdftex.def Info: ./images/1_11_4.png used on input line 149.
+(pdftex.def)             Requested size: 498.25267pt x 246.11513pt.
+
+Overfull \hbox (63.74724pt too wide) in paragraph at lines 148--150
+[] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--150
+
+ []
+
+[11 <./images/1_11_3.png> <./images/1_11_4.png>]
+Overfull \hbox (90.16142pt too wide) in paragraph at lines 153--160
+\T1/cmr/m/n/14.4 ques-tions 5,6, 8 and 9 for the fol-low-ing file : \T1/cmr/m/sl/14.4 http://cncourse.000webhostapp.com/simple4.html\T1/cmr/m/n/14.4 .
+ []
+
+<./images/1_12.png, id=59, 1220.56pt x 768.8725pt>
+File: ./images/1_12.png Graphic file (type png)
+ <use ./images/1_12.png>
+Package pdftex.def Info: ./images/1_12.png used on input line 163.
+(pdftex.def)             Requested size: 488.21535pt x 307.54355pt.
+ <./images/1_12_1.png, id=60, 1105.12875pt x 751.80875pt>
+File: ./images/1_12_1.png Graphic file (type png)
+ <use ./images/1_12_1.png>
+Package pdftex.def Info: ./images/1_12_1.png used on input line 164.
+(pdftex.def)             Requested size: 442.04367pt x 300.71817pt.
+
+Overfull \hbox (18.46033pt too wide) in paragraph at lines 163--165
+[] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 163--165
+
+ []
+
+[12 <./images/1_12.png>]
+Overfull \hbox (231.38724pt too wide) in paragraph at lines 167--168
+[]\T1/cmr/bx/n/14.4 Ans 6: \T1/cmr/m/n/14.4 File Data: 1043 bytes(/simple4.html) + (5259+5193+3840+4867+3269+5129+4882+3987+5085+4858)
+ []
+
+<./images/1_12_2.png, id=64, 817.0525pt x 493.845pt>
+File: ./images/1_12_2.png Graphic file (type png)
+ <use ./images/1_12_2.png>
+Package pdftex.def Info: ./images/1_12_2.png used on input line 169.
+(pdftex.def)             Requested size: 326.81522pt x 197.53448pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 168--170
+
+ []
+
+[13 <./images/1_12_1.png>] <./images/1_12_4.png, id=69, 1371.1225pt x 770.88pt>
+File: ./images/1_12_4.png Graphic file (type png)
+ <use ./images/1_12_4.png>
+Package pdftex.def Info: ./images/1_12_4.png used on input line 171.
+(pdftex.def)             Requested size: 438.76816pt x 246.68665pt.
+
+Overfull \hbox (4.26273pt too wide) in paragraph at lines 170--172
+[] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 170--172
+
+ []
+
+<./images/1_13.png, id=70, 1243.64626pt x 767.86874pt>
+File: ./images/1_13.png Graphic file (type png)
+ <use ./images/1_13.png>
+Package pdftex.def Info: ./images/1_13.png used on input line 184.
+(pdftex.def)             Requested size: 497.44969pt x 307.14206pt.
+
+Overfull \hbox (785.72102pt too wide) in paragraph at lines 177--186
+\T1/cmr/bx/n/17.28 Question 13 \T1/cmr/m/n/14.4 Now, en-ter the fol-low-ing URL to your browser: http://www.iitsystem.ac.in/sites/default/files/councilminutes/minutes/51/Revised_Minutes_51st_Meeting_of_the_IITCouncil_28.4.2017.PDF.
+ []
+
+
+Overfull \hbox (27.69467pt too wide) in paragraph at lines 177--186
+[]
+ []
+
+[14 <./images/1_12_2.png> <./images/1_12_4.png>]
+File: ./images/1_2.png Graphic file (type png)
+ <use ./images/1_2.png>
+Package pdftex.def Info: ./images/1_2.png used on input line 206.
+(pdftex.def)             Requested size: 456.89891pt x 306.74057pt.
+ [15 <./images/1_13.png>] <./images/1_3.png, id=77, 1199.48125pt x 762.85pt>
+File: ./images/1_3.png Graphic file (type png)
+ <use ./images/1_3.png>
+Package pdftex.def Info: ./images/1_3.png used on input line 215.
+(pdftex.def)             Requested size: 479.78401pt x 305.1346pt.
+
+Overfull \hbox (10.02899pt too wide) in paragraph at lines 209--217
+[]
+ []
+
+[16]
+File: ./images/1_10_1.png Graphic file (type png)
+ <use ./images/1_10_1.png>
+Package pdftex.def Info: ./images/1_10_1.png used on input line 225.
+(pdftex.def)             Requested size: 491.42729pt x 297.50623pt.
+
+Overfull \hbox (21.67227pt too wide) in paragraph at lines 218--227
+[] 
+ []
+
+[17 <./images/1_3.png>]
+File: ./images/1_10_2.png Graphic file (type png)
+ <use ./images/1_10_2.png>
+Package pdftex.def Info: ./images/1_10_2.png used on input line 234.
+(pdftex.def)             Requested size: 494.23775pt x 298.30922pt.
+
+Overfull \hbox (24.48273pt too wide) in paragraph at lines 228--236
+[] 
+ []
+
+[18] <./images/s3_1.png, id=87, 809.0225pt x 498.86375pt>
+File: ./images/s3_1.png Graphic file (type png)
+ <use ./images/s3_1.png>
+Package pdftex.def Info: ./images/s3_1.png used on input line 247.
+(pdftex.def)             Requested size: 388.3264pt x 239.45187pt.
+ [19] <./images/s3.png, id=92, 1239.63126pt x 743.77875pt>
+File: ./images/s3.png Graphic file (type png)
+ <use ./images/s3.png>
+Package pdftex.def Info: ./images/s3.png used on input line 256.
+(pdftex.def)             Requested size: 495.84372pt x 297.50623pt.
+
+Overfull \hbox (26.0887pt too wide) in paragraph at lines 250--258
+[] 
+ []
+
+[20 <./images/s3_1.png>] <./images/s3_2.png, id=96, 1243.64626pt x 751.80875pt>
+File: ./images/s3_2.png Graphic file (type png)
+ <use ./images/s3_2.png>
+Package pdftex.def Info: ./images/s3_2.png used on input line 264.
+(pdftex.def)             Requested size: 497.44969pt x 300.71817pt.
+ <./images/s3_3.png, id=97, 1243.64626pt x 743.77875pt>
+File: ./images/s3_3.png Graphic file (type png)
+ <use ./images/s3_3.png>
+Package pdftex.def Info: ./images/s3_3.png used on input line 265.
+(pdftex.def)             Requested size: 497.44969pt x 297.50623pt.
+
+Overfull \hbox (27.69467pt too wide) in paragraph at lines 259--267
+[] 
+ []
+
+
+Overfull \hbox (27.69467pt too wide) in paragraph at lines 259--267
+[] 
+ []
+
+[21 <./images/s3.png>] [22 <./images/s3_2.png> <./images/s3_3.png>] <./images/s4.png, id=104, 1371.1225pt x 770.88pt>
+File: ./images/s4.png Graphic file (type png)
+ <use ./images/s4.png>
+Package pdftex.def Info: ./images/s4.png used on input line 284.
+(pdftex.def)             Requested size: 548.43929pt x 308.34654pt.
+ <./images/s4_1.png, id=105, 813.0375pt x 532.99126pt>
+File: ./images/s4_1.png Graphic file (type png)
+ <use ./images/s4_1.png>
+Package pdftex.def Info: ./images/s4_1.png used on input line 285.
+(pdftex.def)             Requested size: 325.20924pt x 213.19272pt.
+
+Overfull \hbox (78.68427pt too wide) in paragraph at lines 279--287
+[] 
+ []
+
+[23 <./images/s4.png>] [24 <./images/s4_1.png>] (./report.aux) ) 
+Here is how much of TeX's memory you used:
+ 3632 strings out of 493029
+ 53402 string characters out of 6136235
+ 119777 words of memory out of 5000000
+ 7093 multiletter control sequences out of 15000+600000
+ 12696 words of font info for 32 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 38i,7n,39p,333b,239s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1728.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1728.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm2986.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm3583.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsl1440.pfb>
+Output written on report.pdf (24 pages, 2987702 bytes).
+PDF statistics:
+ 140 PDF objects out of 1000 (max. 8388607)
+ 79 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 131 words of extra memory for PDF output out of 10000 (max. 10000000)
+

@@ -13,7 +13,7 @@ void displayIPAandPort(int sockfd){
     }
 
     // prints ipa and port number to standard ouput
-    printf("IP Address: %s\nPort Number: %d\n", inet_ntoa(addr.sin_addr), ntohs(addr.sin_port));
+    printf("Without bind\nIP Address: %s\nPort Number: %d\n", inet_ntoa(addr.sin_addr), ntohs(addr.sin_port));
 }
 
 int main(int argc, char** argv){

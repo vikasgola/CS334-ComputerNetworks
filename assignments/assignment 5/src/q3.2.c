@@ -1,19 +1,29 @@
 #include<stdio.h>
 
+// defining byte datatype for easy handling of bytes 
+union byte{
+    int x;
+    char bytes[sizeof (int)];
+};
+
+// using the fact that variables of union points to same address
 // change byte order nbo to hbo and hbo to nbo
-void changeByteOrder(char *changeit,char *changed,int size){
+void changeByteOrder(union byte *changeit,union byte *changed){
     // reverse the array of char
-    for(int i=0;i<size;i++){
-        changed[i] = changeit[size-1-i];
+    for(int i=0;i<sizeof(int);i++){
+        changed->bytes[sizeof(int) - i - 1] = changeit->bytes[i];
     }
 }
 
 int main(int argc, char **argv){
-    char a[4] = {12,34,56,78};
-    char b[4];
+    union byte a,b;
+    a.x = 0x01234567;
+
     // testing
-    changeByteOrder(a,b,4);
-    
-    printf("%d\n",b[0]);
+    changeByteOrder(&a,&b);
+
+    // printing
+    printf("Before:  %x\n",a.x);    
+    printf("After: %x\n", b.x);
     return 0;
 }

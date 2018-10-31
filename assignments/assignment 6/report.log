@@ -1,0 +1,571 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.10.23)  26 OCT 2018 22:36
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**"/media/vikasgola/Tutorials&Files/IIT_JAMMU/sem 5/CS334-ComputerNetworks/assignments/assignment 6/report.tex"
+(/media/vikasgola/Tutorials&Files/IIT_JAMMU/sem 5/CS334-ComputerNetworks/assignments/assignment 6/report.tex
+LaTeX2e <2016/02/01>
+Babel <3.9q> and hyphenation patterns for 81 language(s) loaded.
+(/usr/share/texlive/texmf-dist/tex/latex/extsizes/extarticle.cls
+Document Class: extarticle 1996/10/08 v1.0 Non Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/extsizes/size14.clo
+File: size14.clo 1999/11/11 v1.4a NON-Standard LaTeX file (size option)
+) (/usr/share/texlive/texmf-dist/tex/latex/base/exscale.sty
+Package: exscale 2014/09/29 v2.1h Standard LaTeX package exscale
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 57.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/cmex/m/n on input line 57.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/cmex/m/n on input line 57.
+\big@size=\dimen102
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen103
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2016/01/03 v1.0q Standard LaTeX Graphics (DPC,SPQR)
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+) (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 95.
+ (/usr/share/texlive/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+ (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+) (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count87
+))
+\Gin@req@height=\dimen104
+\Gin@req@width=\dimen105
+) (/usr/share/texlive/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+Package: pdfpages 2015/09/18 v0.5d Insert pages of external PDF documents (AM)
+ (/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+) (/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count88
+\calc@Bcount=\count89
+\calc@Adimen=\dimen106
+\calc@Bdimen=\dimen107
+\calc@Askip=\skip43
+\calc@Bskip=\skip44
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count90
+\calc@Cskip=\skip45
+) (/usr/share/texlive/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+Package: eso-pic 2015/07/21 v2.0g eso-pic (RN)
+ (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/atbegshi.sty
+Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
+ (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)) (/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+ (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
+Package xcolor Info: Model `RGB' extended on input line 1353.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+))
+\AM@pagewidth=\dimen108
+\AM@pageheight=\dimen109
+ (/usr/share/texlive/texmf-dist/tex/latex/pdfpages/pppdftex.def
+File: pppdftex.def 2015/09/18 v0.5d Pdfpages driver for pdfTeX (AM)
+)
+\AM@pagebox=\box26
+\AM@toc@title=\toks15
+\c@AM@survey=\count91
+\AM@templatesizebox=\box27
+) (/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+ (/usr/share/texlive/texmf-dist/tex/latex/base/t1enc.def
+File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
+)) (/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+ (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+) (/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count92
+\Gm@cntv=\count93
+\c@Gm@tempcnt=\count94
+\Gm@bindingoffset=\dimen110
+\Gm@wd@mp=\dimen111
+\Gm@odd@mp=\dimen112
+\Gm@even@mp=\dimen113
+\Gm@layoutwidth=\dimen114
+\Gm@layoutheight=\dimen115
+\Gm@layouthoffset=\dimen116
+\Gm@layoutvoffset=\dimen117
+\Gm@dimlist=\toks16
+) (./report.aux)
+\openout1 = `report.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+ (/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count95
+\scratchdimen=\dimen118
+\scratchbox=\box28
+\nofMPsegments=\count96
+\nofMParguments=\count97
+\everyMPshowfont=\toks17
+\MPscratchCnt=\count98
+\MPscratchDim=\dimen119
+\MPnumerator=\count99
+\makeMPintoPDFobject=\count100
+\everyMPtoPDFconversion=\toks18
+) (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO)
+ (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+ (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+ (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+)) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+ (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+ (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+ (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+))
+\AtBeginShipoutBox=\box29
+ (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/pdflscape.sty
+Package: pdflscape 2008/08/11 v0.10 Display of landscape pages in PDF (HO)
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics/lscape.sty
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 80.
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(72.26999pt, 469.75502pt, 72.26999pt)
+* v-part:(T,H,B)=(72.26999pt, 650.43001pt, 72.26999pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=469.75502pt
+* \textheight=650.43001pt
+* \oddsidemargin=0.0pt
+* \evensidemargin=0.0pt
+* \topmargin=-39.0pt
+* \headheight=14.0pt
+* \headsep=25.0pt
+* \topskip=14.0pt
+* \footskip=30.0pt
+* \marginparwidth=24.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=12.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+[1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] <./edited_images/1_1.png, id=10, 1082.0425pt x 461.725pt>
+File: ./edited_images/1_1.png Graphic file (type png)
+ <use ./edited_images/1_1.png>
+Package pdftex.def Info: ./edited_images/1_1.png used on input line 32.
+(pdftex.def)             Requested size: 486.91463pt x 207.77432pt.
+
+Overfull \hbox (4.00136pt too wide) in paragraph at lines 24--34
+\T1/cmr/bx/n/17.28 An-swer \T1/cmr/m/n/14.4 UDP (User Data-gram pro-to-col) was used for send-ing the DNS queries.
+ []
+
+
+Overfull \hbox (17.1596pt too wide) in paragraph at lines 24--34
+[]
+ []
+
+<./edited_images/1_2.jpeg, id=11, 1102.1175pt x 472.76625pt>
+File: ./edited_images/1_2.jpeg Graphic file (type jpg)
+ <use ./edited_images/1_2.jpeg>
+Package pdftex.def Info: ./edited_images/1_2.jpeg used on input line 41.
+(pdftex.def)             Requested size: 495.94829pt x 212.74284pt.
+
+Overfull \hbox (26.19327pt too wide) in paragraph at lines 35--43
+[]
+ []
+
+[2 <./edited_images/1_1.png>] <./edited_images/1_3.jpeg, id=17, 1090.0725pt x 663.47874pt>
+File: ./edited_images/1_3.jpeg Graphic file (type jpg)
+ <use ./edited_images/1_3.jpeg>
+Package pdftex.def Info: ./edited_images/1_3.jpeg used on input line 58.
+(pdftex.def)             Requested size: 490.52809pt x 298.56267pt.
+
+Overfull \hbox (20.77307pt too wide) in paragraph at lines 44--60
+[]
+ []
+
+[3 <./edited_images/1_2.jpeg>] <./edited_images/1_5_1.jpeg, id=21, 1068.99374pt x 657.45625pt>
+File: ./edited_images/1_5_1.jpeg Graphic file (type jpg)
+ <use ./edited_images/1_5_1.jpeg>
+Package pdftex.def Info: ./edited_images/1_5_1.jpeg used on input line 85.
+(pdftex.def)             Requested size: 481.04274pt x 295.85258pt.
+ <./edited_images/1_5_2.jpeg, id=22, 1093.08376pt x 656.4525pt>
+File: ./edited_images/1_5_2.jpeg Graphic file (type jpg)
+ <use ./edited_images/1_5_2.jpeg>
+Package pdftex.def Info: ./edited_images/1_5_2.jpeg used on input line 86.
+(pdftex.def)             Requested size: 491.88315pt x 295.4009pt.
+
+Overfull \hbox (11.28772pt too wide) in paragraph at lines 69--88
+[] 
+ []
+
+
+Overfull \hbox (22.12813pt too wide) in paragraph at lines 69--88
+[]
+ []
+
+[4 <./edited_images/1_3.jpeg>] [5 <./edited_images/1_5_1.jpeg>] <./edited_images/1_6.jpeg, id=29, 1076.02pt x 673.51625pt>
+File: ./edited_images/1_6.jpeg Graphic file (type jpg)
+ <use ./edited_images/1_6.jpeg>
+Package pdftex.def Info: ./edited_images/1_6.jpeg used on input line 94.
+(pdftex.def)             Requested size: 484.20453pt x 303.07951pt.
+
+Overfull \hbox (14.44951pt too wide) in paragraph at lines 89--96
+[]
+ []
+
+[6 <./edited_images/1_5_2.jpeg>] <./edited_images/1_7.jpeg, id=33, 1089.06876pt x 680.5425pt>
+File: ./edited_images/1_7.jpeg Graphic file (type jpg)
+ <use ./edited_images/1_7.jpeg>
+Package pdftex.def Info: ./edited_images/1_7.jpeg used on input line 102.
+(pdftex.def)             Requested size: 490.07642pt x 306.24129pt.
+
+Overfull \hbox (20.3214pt too wide) in paragraph at lines 97--104
+[]
+ []
+
+[7 <./edited_images/1_6.jpeg>] <./edited_images/1_8_1.jpeg, id=38, 1081.03876pt x 672.5125pt>
+File: ./edited_images/1_8_1.jpeg Graphic file (type jpg)
+ <use ./edited_images/1_8_1.jpeg>
+Package pdftex.def Info: ./edited_images/1_8_1.jpeg used on input line 111.
+(pdftex.def)             Requested size: 486.46295pt x 302.62782pt.
+ <./edited_images/1_8_2.jpeg, id=39, 1084.05pt x 689.57625pt>
+File: ./edited_images/1_8_2.jpeg Graphic file (type jpg)
+ <use ./edited_images/1_8_2.jpeg>
+Package pdftex.def Info: ./edited_images/1_8_2.jpeg used on input line 112.
+(pdftex.def)             Requested size: 487.818pt x 310.30644pt.
+
+Overfull \hbox (16.70793pt too wide) in paragraph at lines 105--114
+[] 
+ []
+
+
+Overfull \hbox (18.06297pt too wide) in paragraph at lines 105--114
+[]
+ []
+
+[8 <./edited_images/1_7.jpeg>] [9 <./edited_images/1_8_1.jpeg> <./edited_images/1_8_2.jpeg>] <./edited_images/2_1.jpeg, id=46, 950.55125pt x 586.19pt>
+File: ./edited_images/2_1.jpeg Graphic file (type jpg)
+ <use ./edited_images/2_1.jpeg>
+Package pdftex.def Info: ./edited_images/2_1.jpeg used on input line 125.
+(pdftex.def)             Requested size: 427.74411pt x 263.78307pt.
+ <./edited_images/2_2_1.jpeg, id=47, 949.5475pt x 600.2425pt>
+File: ./edited_images/2_2_1.jpeg Graphic file (type jpg)
+ <use ./edited_images/2_2_1.jpeg>
+Package pdftex.def Info: ./edited_images/2_2_1.jpeg used on input line 146.
+(pdftex.def)             Requested size: 427.29242pt x 270.10663pt.
+ <./edited_images/2_2_2.jpeg, id=48, 1072.005pt x 671.50874pt>
+File: ./edited_images/2_2_2.jpeg Graphic file (type jpg)
+ <use ./edited_images/2_2_2.jpeg>
+Package pdftex.def Info: ./edited_images/2_2_2.jpeg used on input line 147.
+(pdftex.def)             Requested size: 482.3978pt x 302.17615pt.
+
+Overfull \hbox (12.64278pt too wide) in paragraph at lines 128--149
+[] 
+ []
+
+[10 <./edited_images/2_1.jpeg>] [11 <./edited_images/2_2_1.jpeg>] <./edited_images/2_3_1.jpeg, id=55, 1096.095pt x 679.53876pt>
+File: ./edited_images/2_3_1.jpeg Graphic file (type jpg)
+ <use ./edited_images/2_3_1.jpeg>
+Package pdftex.def Info: ./edited_images/2_3_1.jpeg used on input line 156.
+(pdftex.def)             Requested size: 493.23819pt x 305.78961pt.
+
+Overfull \hbox (23.48317pt too wide) in paragraph at lines 150--158
+[] 
+ []
+
+[12 <./edited_images/2_2_2.jpeg>] <./edited_images/2_4_1.jpeg, id=59, 1081.03876pt x 684.5575pt>
+File: ./edited_images/2_4_1.jpeg Graphic file (type jpg)
+ <use ./edited_images/2_4_1.jpeg>
+Package pdftex.def Info: ./edited_images/2_4_1.jpeg used on input line 177.
+(pdftex.def)             Requested size: 486.46295pt x 308.04802pt.
+ <./edited_images/2_4_2.jpeg, id=60, 1081.03876pt x 677.53125pt>
+File: ./edited_images/2_4_2.jpeg Graphic file (type jpg)
+ <use ./edited_images/2_4_2.jpeg>
+Package pdftex.def Info: ./edited_images/2_4_2.jpeg used on input line 178.
+(pdftex.def)             Requested size: 486.46295pt x 304.88625pt.
+
+Overfull \hbox (16.70793pt too wide) in paragraph at lines 159--180
+[] 
+ []
+
+
+Overfull \hbox (16.70793pt too wide) in paragraph at lines 159--180
+[] 
+ []
+
+[13 <./edited_images/2_3_1.jpeg>] [14 <./edited_images/2_4_1.jpeg>] <./edited_images/3_1.jpeg, id=68, 1066.98625pt x 684.5575pt>
+File: ./edited_images/3_1.jpeg Graphic file (type jpg)
+ <use ./edited_images/3_1.jpeg>
+Package pdftex.def Info: ./edited_images/3_1.jpeg used on input line 190.
+(pdftex.def)             Requested size: 480.13939pt x 308.04802pt.
+
+Overfull \hbox (10.38437pt too wide) in paragraph at lines 185--192
+[] 
+ []
+
+[15 <./edited_images/2_4_2.jpeg>] <./edited_images/3_2.jpeg, id=72, 1091.07625pt x 692.5875pt>
+File: ./edited_images/3_2.jpeg Graphic file (type jpg)
+ <use ./edited_images/3_2.jpeg>
+Package pdftex.def Info: ./edited_images/3_2.jpeg used on input line 198.
+(pdftex.def)             Requested size: 490.97978pt x 311.66148pt.
+
+Overfull \hbox (21.22476pt too wide) in paragraph at lines 193--200
+[] 
+ []
+
+[16 <./edited_images/3_1.jpeg>] <./edited_images/3_3_1.jpeg, id=76, 1068.99374pt x 588.1975pt>
+File: ./edited_images/3_3_1.jpeg Graphic file (type jpg)
+ <use ./edited_images/3_3_1.jpeg>
+Package pdftex.def Info: ./edited_images/3_3_1.jpeg used on input line 207.
+(pdftex.def)             Requested size: 481.04274pt x 264.68643pt.
+ <./edited_images/3_3_2.jpeg, id=77, 1086.0575pt x 733.74126pt>
+File: ./edited_images/3_3_2.jpeg Graphic file (type jpg)
+ <use ./edited_images/3_3_2.jpeg>
+Package pdftex.def Info: ./edited_images/3_3_2.jpeg used on input line 208.
+(pdftex.def)             Requested size: 488.72136pt x 330.18051pt.
+
+Overfull \hbox (11.28772pt too wide) in paragraph at lines 201--210
+[] 
+ []
+
+
+Overfull \hbox (18.96634pt too wide) in paragraph at lines 201--210
+[] 
+ []
+
+[17 <./edited_images/3_2.jpeg>] <./edited_images/3_4_1.jpeg, id=81, 1086.0575pt x 657.45625pt>
+File: ./edited_images/3_4_1.jpeg Graphic file (type jpg)
+ <use ./edited_images/3_4_1.jpeg>
+Package pdftex.def Info: ./edited_images/3_4_1.jpeg used on input line 216.
+(pdftex.def)             Requested size: 488.72136pt x 295.85258pt.
+ <./edited_images/3_4_2.jpeg, id=82, 1087.06125pt x 669.50125pt>
+File: ./edited_images/3_4_2.jpeg Graphic file (type jpg)
+ <use ./edited_images/3_4_2.jpeg>
+Package pdftex.def Info: ./edited_images/3_4_2.jpeg used on input line 217.
+(pdftex.def)             Requested size: 489.17303pt x 301.27278pt.
+
+Overfull \hbox (18.96634pt too wide) in paragraph at lines 211--219
+[] 
+ []
+
+
+Overfull \hbox (19.41801pt too wide) in paragraph at lines 211--219
+[] 
+ []
+
+[18 <./edited_images/3_3_1.jpeg> <./edited_images/3_3_2.jpeg>] [19 <./edited_images/3_4_1.jpeg>] <./edited_images/3_5_1.jpeg, id=90, 1058.95625pt x 680.5425pt>
+File: ./edited_images/3_5_1.jpeg Graphic file (type jpg)
+ <use ./edited_images/3_5_1.jpeg>
+Package pdftex.def Info: ./edited_images/3_5_1.jpeg used on input line 225.
+(pdftex.def)             Requested size: 476.52591pt x 306.24129pt.
+
+Overfull \hbox (6.77089pt too wide) in paragraph at lines 220--227
+[] 
+ []
+
+[20 <./edited_images/3_4_2.jpeg>] <./edited_images/3_6_1.jpeg, id=94, 1037.8775pt x 657.45625pt>
+File: ./edited_images/3_6_1.jpeg Graphic file (type jpg)
+ <use ./edited_images/3_6_1.jpeg>
+Package pdftex.def Info: ./edited_images/3_6_1.jpeg used on input line 247.
+(pdftex.def)             Requested size: 467.04057pt x 295.85258pt.
+ <./edited_images/3_6_2.jpeg, id=95, 1084.05pt x 732.7375pt>
+File: ./edited_images/3_6_2.jpeg Graphic file (type jpg)
+ <use ./edited_images/3_6_2.jpeg>
+Package pdftex.def Info: ./edited_images/3_6_2.jpeg used on input line 248.
+(pdftex.def)             Requested size: 487.818pt x 329.72884pt.
+
+Overfull \hbox (18.06297pt too wide) in paragraph at lines 228--250
+[] 
+ []
+
+[21 <./edited_images/3_5_1.jpeg>] [22 <./edited_images/3_6_1.jpeg>] <./edited_images/3_7_1.jpeg, id=102, 959.585pt x 176.66pt>
+File: ./edited_images/3_7_1.jpeg Graphic file (type jpg)
+ <use ./edited_images/3_7_1.jpeg>
+Package pdftex.def Info: ./edited_images/3_7_1.jpeg used on input line 257.
+(pdftex.def)             Requested size: 431.80927pt x 79.49626pt.
+ <./edited_images/3_8_1.jpeg, id=103, 1080.035pt x 665.48625pt>
+File: ./edited_images/3_8_1.jpeg Graphic file (type jpg)
+ <use ./edited_images/3_8_1.jpeg>
+Package pdftex.def Info: ./edited_images/3_8_1.jpeg used on input line 279.
+(pdftex.def)             Requested size: 486.01126pt x 299.46603pt.
+
+Overfull \hbox (16.25624pt too wide) in paragraph at lines 260--281
+[] 
+ []
+
+[23 <./edited_images/3_6_2.jpeg> <./edited_images/3_7_1.jpeg>] <./edited_images/3_9_1.jpeg, id=107, 1059.96pt x 741.77126pt>
+File: ./edited_images/3_9_1.jpeg Graphic file (type jpg)
+ <use ./edited_images/3_9_1.jpeg>
+Package pdftex.def Info: ./edited_images/3_9_1.jpeg used on input line 288.
+(pdftex.def)             Requested size: 476.9776pt x 333.79398pt.
+ <./edited_images/3_9_2.jpeg, id=108, 951.555pt x 161.60374pt>
+File: ./edited_images/3_9_2.jpeg Graphic file (type jpg)
+ <use ./edited_images/3_9_2.jpeg>
+Package pdftex.def Info: ./edited_images/3_9_2.jpeg used on input line 289.
+(pdftex.def)             Requested size: 428.19579pt x 72.72101pt.
+
+Overfull \hbox (7.22258pt too wide) in paragraph at lines 283--291
+[] 
+ []
+
+[24 <./edited_images/3_8_1.jpeg>] <./edited_images/3_10_1.jpeg, id=112, 1076.02pt x 675.52374pt>
+File: ./edited_images/3_10_1.jpeg Graphic file (type jpg)
+ <use ./edited_images/3_10_1.jpeg>
+Package pdftex.def Info: ./edited_images/3_10_1.jpeg used on input line 312.
+(pdftex.def)             Requested size: 484.20453pt x 303.98288pt.
+ <./edited_images/3_10_2.jpeg, id=113, 1093.08376pt x 736.7525pt>
+File: ./edited_images/3_10_2.jpeg Graphic file (type jpg)
+ <use ./edited_images/3_10_2.jpeg>
+Package pdftex.def Info: ./edited_images/3_10_2.jpeg used on input line 313.
+(pdftex.def)             Requested size: 491.88315pt x 331.53555pt.
+
+Overfull \hbox (14.44951pt too wide) in paragraph at lines 293--315
+[] 
+ []
+
+
+Overfull \hbox (22.12813pt too wide) in paragraph at lines 293--315
+[] 
+ []
+
+[25 <./edited_images/3_9_1.jpeg> <./edited_images/3_9_2.jpeg>] [26 <./edited_images/3_10_1.jpeg>]
+LaTeX Font Info:    Try loading font information for T1+cmss on input line 324.
+ (/usr/share/texlive/texmf-dist/tex/latex/base/t1cmss.fd
+File: t1cmss.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+) <./edited_images/4_1.jpeg, id=121, 751.80875pt x 527.9725pt>
+File: ./edited_images/4_1.jpeg Graphic file (type jpg)
+ <use ./edited_images/4_1.jpeg>
+Package pdftex.def Info: ./edited_images/4_1.jpeg used on input line 325.
+(pdftex.def)             Requested size: 488.66989pt x 343.17805pt.
+
+Overfull \hbox (18.91487pt too wide) in paragraph at lines 320--327
+[]
+ []
+
+[27 <./edited_images/3_10_2.jpeg>] <./edited_images/4_2.jpeg, id=126, 744.7825pt x 735.74875pt>
+File: ./edited_images/4_2.jpeg Graphic file (type jpg)
+ <use ./edited_images/4_2.jpeg>
+Package pdftex.def Info: ./edited_images/4_2.jpeg used on input line 334.
+(pdftex.def)             Requested size: 484.10289pt x 478.23102pt.
+
+Overfull \hbox (29.86958pt too wide) in paragraph at lines 328--336
+\T1/cmr/m/n/14.4 for www.du.edu and www.ritchieschool.du.edu is  \T1/cmss/m/n/14.4 dig du.edu -t NS ritchi-eschool.du.edu
+ []
+
+
+Overfull \hbox (14.34787pt too wide) in paragraph at lines 328--336
+[]
+ []
+
+[28 <./edited_images/4_1.jpeg>] <./edited_images/4_3_1.jpeg, id=130, 680.5425pt x 742.775pt>
+File: ./edited_images/4_3_1.jpeg Graphic file (type jpg)
+ <use ./edited_images/4_3_1.jpeg>
+Package pdftex.def Info: ./edited_images/4_3_1.jpeg used on input line 342.
+(pdftex.def)             Requested size: 442.34738pt x 482.79802pt.
+ <./edited_images/4_3_2.jpeg, id=131, 673.51625pt x 745.78625pt>
+File: ./edited_images/4_3_2.jpeg Graphic file (type jpg)
+ <use ./edited_images/4_3_2.jpeg>
+Package pdftex.def Info: ./edited_images/4_3_2.jpeg used on input line 343.
+(pdftex.def)             Requested size: 437.78038pt x 484.75533pt.
+ [29 <./edited_images/4_2.jpeg>] [30 <./edited_images/4_3_1.jpeg>] [31 <./edited_images/4_3_2.jpeg>] (./report.aux) ) 
+Here is how much of TeX's memory you used:
+ 3679 strings out of 493029
+ 55718 string characters out of 6136233
+ 120785 words of memory out of 5000000
+ 7127 multiletter control sequences out of 15000+600000
+ 13933 words of font info for 33 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 38i,7n,39p,364b,239s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/share/texmf/fonts/type1/public/cm-super/sfbx1728.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx2074.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1728.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm2986.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm3583.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss1440.pfb>
+Output written on report.pdf (31 pages, 6749745 bytes).
+PDF statistics:
+ 167 PDF objects out of 1000 (max. 8388607)
+ 92 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 171 words of extra memory for PDF output out of 10000 (max. 10000000)
+
